@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SiddharthDwivedi\\source\\repos\\Demo\\gitappplication_solution\\gitappplication\\gitappplication.csproj": {}
+    "C:\\Users\\SiddharthDwivedi\\source\\repos\\Demo\\gitpractice\\gitappplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SiddharthDwivedi\\source\\repos\\Demo\\gitappplication_solution\\gitappplication\\gitappplication.csproj": {
+    "C:\\Users\\SiddharthDwivedi\\source\\repos\\Demo\\gitpractice\\gitappplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SiddharthDwivedi\\source\\repos\\Demo\\gitappplication_solution\\gitappplication\\gitappplication.csproj",
+        "projectUniqueName": "C:\\Users\\SiddharthDwivedi\\source\\repos\\Demo\\gitpractice\\gitappplication.csproj",
         "projectName": "gitappplication",
-        "projectPath": "C:\\Users\\SiddharthDwivedi\\source\\repos\\Demo\\gitappplication_solution\\gitappplication\\gitappplication.csproj",
+        "projectPath": "C:\\Users\\SiddharthDwivedi\\source\\repos\\Demo\\gitpractice\\gitappplication.csproj",
         "packagesPath": "C:\\Users\\SiddharthDwivedi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SiddharthDwivedi\\source\\repos\\Demo\\gitappplication_solution\\gitappplication\\obj\\",
+        "outputPath": "C:\\Users\\SiddharthDwivedi\\source\\repos\\Demo\\gitpractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SiddharthDwivedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
